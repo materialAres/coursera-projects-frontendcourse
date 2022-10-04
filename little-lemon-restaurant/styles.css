@@ -1,0 +1,52 @@
+#logo {
+    margin-top: 2em;
+    margin-bottom: 2em; 
+}
+
+#body {
+    background-color: #E0E0E2;
+}
+
+h1 {
+    color: #721817;
+}
+
+h2 {
+    color: #721817;
+}
+
+.menuentry {
+    margin-left: 10px;
+    margin-top: 2em;
+    margin-bottom: 3em;
+}
+
+.center-text {
+    text-align: center;
+}
+
+.img-fluid {
+    width: 15em;
+}
+
+#logo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#copyright {
+    padding-top: 12px;
+    font-size: 0.75em;
+}
+
+#samplebutton {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h3 > span {
+    color: #FA9F42;
+    font-size: 0.75em;
+}
